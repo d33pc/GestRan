@@ -1,2 +1,2 @@
 # GestRan
-controlling various functions in windows through different hand gestures
+Controlling various functions in windows like controling volume through different hand gestures.
